@@ -1,6 +1,6 @@
 ---
 name: "evcc-custom"
-version: "custom-0.316.1"
+version: "custom-0.316.1-1"
 slug: "evcc-custom"
 description: EV Charge Controller!
 url: "https://github.com/olodin/evcc"
